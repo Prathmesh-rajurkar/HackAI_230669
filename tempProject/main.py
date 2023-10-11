@@ -31,9 +31,9 @@ def send_email(subject, body):
        
         smtp_server = "smtp.gmail.com"
         smtp_port = 587  
-        smtp_username = "smtp.gmAail"
+        smtp_username = "smtp.gmail"
         smtp_password = "Lizard!156"
-        sender_email = "techbeast1004@gmail.com"
+        sender_email = "techbeast2005@gmail.com"
         recipient_email = "yuvrajsrsingh@gmail.com"
 
         
